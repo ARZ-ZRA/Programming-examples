@@ -1,0 +1,7 @@
+f = list()
+f.append('1')
+f.append('2')
+f.append('3')
+f.append('4')
+f.append('5')
+print(f)
