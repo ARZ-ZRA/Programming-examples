@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f5b1ed0-8e4d-4e4b-a459-886ec52fd0df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dinamic programming/backpack_packing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graphs/graph_traversal_in_depth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graphs/graph_traversal_wide.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graphs/search_function_elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graphs/search_labirint_graphs_bidirectional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Graphs/search_labirint_graphs_unidirectional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/share_price_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/share_price_differense_long.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Different_examples/different.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Different_examples/parcer/parcer_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Примеры программирования.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Примеры программирования.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Different_examples/parcer" beforeDir="false" afterPath="$PROJECT_DIR$/Different_examples/parcer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Different_examples/parcer/parcer_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Different_examples/parcer/parcer_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Different_examples/parcer/readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +49,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ARZ/Python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ARZ/Programming&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.backpack_packing">
-    <configuration name="backpack_packing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ARZ\Programming\Algorithms\Graphs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.search_labirint_graphs_unidirectional">
+    <configuration name="different" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Примеры программирования" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dinamic programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Different_examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dinamic programming/backpack_packing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Different_examples/different.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="greatest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="different_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Примеры программирования" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dinamic programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Different_examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\ARZ\Примеры программирования\Dinamic programming\greatest_increasing_subsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Different_examples/different_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_comparisons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="search_function_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Примеры программирования" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dinamic programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dinamic programming/string_comparisons.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Graphs/search_function_elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,30 +122,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctest sort_descending_piramida" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="search_labirint_graphs_bidirectional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Примеры программирования" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dinamic programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/Graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dinamic programming/sort_list_piramida_kucha.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="sort_descending_piramida" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_FUNCTION" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="D:\ARZ\Programming\Algorithms\Graphs\search_labirint_graphs_bidirectional.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_labirint_graphs_unidirectional" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Примеры программирования" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms/Graphs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Graphs/search_labirint_graphs_unidirectional.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.backpack_packing" />
-        <item itemvalue="Python tests.Doctest sort_descending_piramida" />
-        <item itemvalue="Python.string_comparisons" />
-        <item itemvalue="Python.greatest_increasing_subsequence" />
+        <item itemvalue="Python.search_labirint_graphs_unidirectional" />
+        <item itemvalue="Python.search_labirint_graphs_bidirectional" />
+        <item itemvalue="Python.different" />
+        <item itemvalue="Python.search_function_elements" />
+        <item itemvalue="Python.different_1" />
       </list>
     </recent_temporary>
   </component>
