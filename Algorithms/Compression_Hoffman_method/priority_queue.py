@@ -81,6 +81,6 @@ def sort_list(list: list):
     return list
 
 
-text = 'effervescence'
-print(sort_list(count_symbol(text)))
+# text = 'effervescence'
+# print(sort_list(count_symbol(text)))
 # print(priority_queue(count_symbol(text)))
